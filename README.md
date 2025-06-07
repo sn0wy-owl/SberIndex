@@ -14,20 +14,20 @@
 ### КРИТЕРИИ ПРОЕКТА ПО ТЗ</br>
 1. Востребованность</br>
   возможность сравнения показателей по регионам с учётом пола/возраста</br>
-2. Чсность цели</br>
+2. Ясность цели</br>
   минималистичный UX</br>
 3. Методология</br>
-   Две независимые зоны сравнения</br></br>
+  две независимые зоны сравнения</br></br>
 
 ### ХОД РАБОТ</br>
 Сбор ТЗ на визуализацию (Елена Трацевская)</br>
 Сбор и очистка данных (Сергей Архипов)</br>
-Сохдание интерактивного дашборда (Мария Гирда)</br></br>
+Создание интерактивного дашборда (Мария Гирда)</br></br>
 
 ---
 ### ДАННЫЕ</br>
 Данные от организаторов были дополнены следующими показателями:</br>
-[Площадь и плотность населения](https://docs.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruFvyjbmqb4vlV7xuR8B4zsYoF9njtcusEgv5WZioIKTa4eq62GnPZ5UDLVGj8DTKPCw3cm6FpmWeiK9BhlqCFFLkuP_3IcYLA2jkFtAa5YxSDlqXtChf16hJB0qFKi8Cnw%3D%3D%3Fsign%3DOFhrGxgo7hspimtwUieVD6-IlpuIUp1zoNd-aGJHWMo%3D&name=Ejegod_02-01_2022.xlsx)    
+[Площадь региона и плотность населения](https://docs.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruFvyjbmqb4vlV7xuR8B4zsYoF9njtcusEgv5WZioIKTa4eq62GnPZ5UDLVGj8DTKPCw3cm6FpmWeiK9BhlqCFFLkuP_3IcYLA2jkFtAa5YxSDlqXtChf16hJB0qFKi8Cnw%3D%3D%3Fsign%3DOFhrGxgo7hspimtwUieVD6-IlpuIUp1zoNd-aGJHWMo%3D&name=Ejegod_02-01_2022.xlsx)    
 [Данные о зарплате](https://showdata.rosstat.gov.ru/report/278170/)    
 [Уровень безработицы](https://showdata.rosstat.gov.ru/report/274316/)<br> 
 
@@ -47,7 +47,7 @@
 Лист #1</br>
 На листе представлена в разрезе округов и регинов информация по общестатистическим данным:</br>
 площадь, население, плотность населения, ТОП-регионов по численности населения, </br>распределение населения по возрастному и гендерному принципу.</br>
-Ведён показатель  «Коэффициент пенсионной нагрузки» - это отношение нетрудоспособных ко всем.</br>
+Ведён показатель  «Коэффициент пенсионной нагрузки» - это отношение количества населения старше трудоспособного возраста к всему населению региона.</br>
 Показывает уровень региона и его будущие проблемы с рабочими,</br> 
 а также возможный будущий дефицит социального бюджета на обеспечение пенсий</br></br>
 ![02_Население 1](https://github.com/user-attachments/assets/ecf5f144-0931-4bef-a5f1-4c866643bfe7)
